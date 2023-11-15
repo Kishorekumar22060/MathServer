@@ -30,6 +30,7 @@ Create a HTML file to implement form based input and output.
 Publish the website in the given URL.
 
 ## PROGRAM :
+```
 <html>
 <head>
 <meta charset='utf-8'>
@@ -94,6 +95,7 @@ Area : <input type="text" name="area" value="{{area}}"></input>m<sup>2</sup><br/
 </body>
 </html>
 
+```
 
 ## HOMEPAGE:
 <img width="1440" alt="Screenshot 2023-11-15 at 8 36 21 PM" src="https://github.com/Kishorekumar22060/MathServer/assets/141472136/7e02d29c-72be-4a06-bdf3-8e4af786b7ff">
