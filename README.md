@@ -98,6 +98,8 @@ Area : <input type="text" name="area" value="{{area}}"></input>m<sup>2</sup><br/
 ```
 
 ## HOMEPAGE:
+<img width="1440" alt="Screenshot 2023-11-15 at 8 39 57 PM" src="https://github.com/Kishorekumar22060/MathServer/assets/141472136/9f334c78-aa93-4b61-a98f-6abad9179926">
+
 <img width="1440" alt="Screenshot 2023-11-15 at 8 36 21 PM" src="https://github.com/Kishorekumar22060/MathServer/assets/141472136/7e02d29c-72be-4a06-bdf3-8e4af786b7ff">
 
 
